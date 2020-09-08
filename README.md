@@ -1,2 +1,1 @@
-# bookmarkit_api
-Python API for BookmarkIt
+pip freeze > requirements.txt
